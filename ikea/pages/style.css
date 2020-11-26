@@ -1,0 +1,215 @@
+/* Navigation page*/
+
+ul {
+text-align: center;
+background: #eee;
+color: inherit;
+font-family:sans-serif;
+font-size: 19px;
+margin-top: 40px;
+}
+
+li {
+ display: inline;
+ padding: 30px 50px 30px 30px;
+
+}
+
+li a {
+  color: #6e273d;
+  text-decoration: none;
+}
+
+.topspace{
+
+    width: auto;
+    border-bottom: solid #6e273d;
+    font-family: sans-serif;
+    line-height: 1;
+    background-color: #eee
+}
+/* Introduction section*/
+.content-section.page-header {
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    width: 100%;
+}
+.content-section {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    background-color: #eee;
+}
+.overlay.overlay-light p{
+  color: #000000;
+  margin-top: 10px;
+}
+
+.inner h1 {
+    font-size: 45px;
+    margin: 0 0 0 0px;
+    font-family: sans-serif;
+    color: #6e273d;
+    margin-left: 80px;
+    font-weight: bold;
+}
+
+p {
+font-size: 18px;
+line-height: 155%;
+margin: inherit;
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-family: sans-serif;
+color: #000;
+}
+
+/* Desciption page*/
+.title {
+  font-family: sans-serif;
+  color: #000000;
+  display: block;
+  font-size: 1.5em;
+  font-weight: normal;
+  text-align: center;
+  background-color: #6e273d;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.content-section.narrow {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.center {
+  text-align: center;
+}
+.row p {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+.inner p {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Team page*/
+.containers {
+  margin-top: 10px;
+}
+.containers img {
+height: 400px;
+width: 300px;
+margin: 2px;
+}
+
+.inner h3 {
+  font-size: 45px;
+  margin: 0 0 0px;
+  font-family: sans-serif;
+  color: #6e273d;
+  margin-left: 80px;
+  font-weight: bold
+}
+.containers h4 {
+  font-family: sans-serif;
+  font-weight: 300;
+  color: #6e273d;
+  display: block;
+  font-size: 1.5em;
+  margin-bottom: 1px;
+  margin-top: 40px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1px;
+}
+.containers p {
+  padding: 10px;
+}
+/* Footer*/
+
+.footers {
+    background-color: #eee;
+    border-top: 1px solid #6e273d;
+}
+.container {
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.line {
+  border-right: 1px solid #6e273d;
+
+}
+.container h5 {
+  font-family: sans-serif;
+  color: #6e273d;
+  float: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+
+/* Footer Section*/
+
+.footer {
+    text-align: center;
+    background: #6e273d;
+    font-family: sans-serif;
+    color: black;
+    font-size: 15px;
+    padding: 8px;
+}
+
+/* Home Page*/
+.home-page
+{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 625px;
+  display: table;
+  width: 100%;
+}
+.inside {
+  margin-left: 10px;
+  max-width: 800px;
+  line-height: 50px;
+  padding: 40px;
+}
+
+button {
+  background: #6e273d;
+  color: #ffffff;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 1000px;
+  font-size: 18px;
+  width: 25%;
+  height: 50px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+}
+.inside h1 {
+  font-size: 45px;
+  font-family: sans-serif;
+  color: #6e273d;
+  font-weight: bold;
+}
+
+/* Services Page*/
+.services {
+  text-align: center;
+}

@@ -1,0 +1,97 @@
+.row img {
+height: 300px;
+margin: 100px 140px 100px 140px;
+width:250px;
+padding: 10;
+}
+
+
+
+    <link rel="stylesheet" href="styyle.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <div class= "change">
+  <div class="container">
+    <div class="row">
+      <div class="footer_bottom_wrap">
+        <p> © Copyright Suncar MMC </p>
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+  .container p {
+      margin-right: auto;
+      margin-left: auto;
+      padding-left: 20px;
+      padding-right: 20px;
+      height: 40px;
+      background: #6e273d;
+  }
+
+  .container p {
+      text-align: center;
+      font-size: 15px;
+      padding: 8px;
+  }
+
+
+  <div class="footblock">
+    <h2> Find Us </h2>
+  <p> CHERY Automobile (salon)<br>
+   Babək prospekti 42 <br>
+  Baku, Azerbaijan </p>
+  </div>
+
+
+  <div class="footblock">
+    <h2> Call Us </h2>
+  <p> Tel:    (+994 12) 424 46 24
+  <br>Tel:    (+994 50) 242 46 24 <br> Fax:   (+994 12) 424 69 81 </p>
+  </div>
+
+
+  <div class="footblock">
+  <h2> E-mail Us </h2>
+  <p> E-mail: to be confirmed </p>
+  </div>
+
+
+  <div id="footblock">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  </div>
+
+
+  .footblock {
+      display: inline-block;
+      font-family: sans-serif;
+      padding: 10px;
+      width: 390px;
+      height: 150px;
+      padding-left: 30px;
+      margin-top: 5px;
+      border-right: 1px solid #6e273d;
+      color: #6e273d;
+      float: left;
+      font-size: 18px;
+  }
+  .footer_bottom {
+      padding: 20px 0;
+  }
+
+
+
+  .Team {
+    background-color: #eee;
+  }
+
+
+      <a class="navbar-brand js-scroll-trigger" href="Services.html"><img src="logo5.jpg" height="40" width="200"</a>
